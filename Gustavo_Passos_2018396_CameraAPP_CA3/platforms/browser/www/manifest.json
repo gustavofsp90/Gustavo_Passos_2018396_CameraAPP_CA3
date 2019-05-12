@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Gustavo_Passos_2018396_Main_Assignment_Mob.Dev_and_PPIT",
+  "short_name": "Gustavo_Passos_2018396_Main_Assignment_Mob.Dev_and_PPIT",
+  "version": "ie.cct",
+  "description": "A basic Framework7 template for PhoneGap.",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
